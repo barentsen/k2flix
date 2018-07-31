@@ -5,7 +5,7 @@ K2flix: Kepler/K2/TESS pixel data visualizer
 Kepler/K2/TESS spacecraft.**
 
 [![PyPI](http://img.shields.io/pypi/v/k2flix.svg)](https://pypi.python.org/pypi/k2flix/)
-[![Travis status](http://img.shields.io/travis/barentsen/k2flix/master.svg)](http://travis-ci.org/barentsen/k2flix)
+[![Travis status](http://img.shields.io/travis/KeplerGO/k2flix/master.svg)](http://travis-ci.org/KeplerGO/k2flix)
 [![MIT license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/barentsen/k2flix/blob/master/LICENSE)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15576.svg)](http://dx.doi.org/10.5281/zenodo.15576)
 [![ADS Bibcode](https://img.shields.io/badge/NASA%20ADS-2015ascl.soft03001B-blue.svg)](http://adsabs.harvard.edu/abs/2015ascl.soft03001B)
