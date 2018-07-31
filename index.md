@@ -139,6 +139,7 @@ citation. The code has been registered in the Astrophysics Source Code
 Library \[[ascl:1503.001](http://ascl.net/code/v/1069)\] and the
 preferred BibTeX entry is:
 
+```latex
     @MISC{2015ascl.soft03001B,
       author        = {{Barentsen}, G.},
       title         = "{K2flix: Kepler pixel data visualizer}",
@@ -152,6 +153,7 @@ preferred BibTeX entry is:
       doi           = {10.5281/zenodo.15576},
       url           = {http://dx.doi.org/10.5281/zenodo.15576}
     }
+```
 
 Contributing
 ------------
