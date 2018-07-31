@@ -141,7 +141,7 @@ preferred BibTeX entry is:
 
 ```latex
     @MISC{2015ascl.soft03001B,
-      author        = {{Barentsen}, G.},
+      author        = { {Barentsen}, G.},
       title         = "{K2flix: Kepler pixel data visualizer}",
       howpublished  = {Astrophysics Source Code Library},
       year          = 2015,
